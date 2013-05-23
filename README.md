@@ -1,0 +1,4 @@
+ReSharper.Settings
+==================
+
+ReSharper Settings
