@@ -1,4 +1,9 @@
 ReSharper.Templates
 ==================
 
-ReSharper Templates is a collection of different templates
+A collection of different ReSharper templates which can be installed using ReSharper 8 Extension Manager
+
+todo-templates
+----------------------
+*//$COMMENT$ [$usr$,$date$] $END$*  
+$date: yyyyMMdd
