@@ -2,7 +2,7 @@
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Categories/=ToDo/@EntryIndexedValue">ToDo</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Shortcut/@EntryValue">comment</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Text/@EntryValue">//$COMMENT$ [$usr$, $date$] $END$</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Text/@EntryValue">//$COMMENT$ [$usr$,$date$] $END$</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Reformat/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
@@ -17,6 +17,6 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Field/=COMMENT/Expression/@EntryValue">list("TODO,NOTE,BUG")</s:String>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Field/=COMMENT/Order/@EntryValue">1</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Field/=date/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Field/=date/Expression/@EntryValue">getCurrentDate("yyyy.MM.dd")</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Field/=date/Expression/@EntryValue">getCurrentDate("yyyyMMdd")</s:String>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Field/=date/InitialRange/@EntryValue">-1</s:Int64>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Field/=date/Order/@EntryValue">2</s:Int64></wpf:ResourceDictionary>

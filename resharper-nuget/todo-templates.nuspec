@@ -3,7 +3,7 @@
   <metadata>
     <id>ReSharper.Templates.todo</id>
     <title>ToDo Live Templates</title>
-    <version>0.0.1-pre</version>
+    <version>0.0.2-pre</version>
     <authors>Daniel Sack</authors>
     <owners>Daniel Sack</owners>
     <description>A set 'ToDo' Live Templates to quickly generate ToDo, Notes, Bug entries.</description>
