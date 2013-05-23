@@ -1,4 +1,4 @@
-ReSharper.Settings
+ReSharper.Templates
 ==================
 
-ReSharper Settings
+ReSharper Templates is a collection of different templates
