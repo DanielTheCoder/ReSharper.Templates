@@ -1,0 +1,119 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=42B8C86D3D18EF429374F1ED9BC5DBF6/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=42B8C86D3D18EF429374F1ED9BC5DBF6/Shortcut/@EntryValue">mtclass</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=42B8C86D3D18EF429374F1ED9BC5DBF6/Description/@EntryValue">Creates a MSTest class</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=42B8C86D3D18EF429374F1ED9BC5DBF6/Text/@EntryValue">[TestClass]&#xD;
+public class $TestClass$&#xD;
+{&#xD;
+    $END$&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=42B8C86D3D18EF429374F1ED9BC5DBF6/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=42B8C86D3D18EF429374F1ED9BC5DBF6/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=42B8C86D3D18EF429374F1ED9BC5DBF6/Categories/=MSTest/@EntryIndexedValue">MSTest</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=42B8C86D3D18EF429374F1ED9BC5DBF6/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=42B8C86D3D18EF429374F1ED9BC5DBF6/Scope/=C3001E7C0DA78E4487072B7E050D86C5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=42B8C86D3D18EF429374F1ED9BC5DBF6/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=42B8C86D3D18EF429374F1ED9BC5DBF6/Scope/=C3001E7C0DA78E4487072B7E050D86C5/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=42B8C86D3D18EF429374F1ED9BC5DBF6/Field/=TestClass/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=42B8C86D3D18EF429374F1ED9BC5DBF6/Field/=TestClass/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1FBB4347782C5D4D8BDB9EFD3650C09C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1FBB4347782C5D4D8BDB9EFD3650C09C/Shortcut/@EntryValue">mtcleanup</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1FBB4347782C5D4D8BDB9EFD3650C09C/Description/@EntryValue">Creates MSTest cleanup method</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1FBB4347782C5D4D8BDB9EFD3650C09C/Text/@EntryValue">[TestCleanup]&#xD;
+public void TestCleanup()&#xD;
+{&#xD;
+    $END$&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1FBB4347782C5D4D8BDB9EFD3650C09C/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1FBB4347782C5D4D8BDB9EFD3650C09C/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1FBB4347782C5D4D8BDB9EFD3650C09C/Categories/=MSTest/@EntryIndexedValue">MSTest</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1FBB4347782C5D4D8BDB9EFD3650C09C/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1FBB4347782C5D4D8BDB9EFD3650C09C/Scope/=C3001E7C0DA78E4487072B7E050D86C5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1FBB4347782C5D4D8BDB9EFD3650C09C/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1FBB4347782C5D4D8BDB9EFD3650C09C/Scope/=C3001E7C0DA78E4487072B7E050D86C5/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E2570A8A1FBDA7499466981AF3071F00/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E2570A8A1FBDA7499466981AF3071F00/Shortcut/@EntryValue">mtdeplItem</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E2570A8A1FBDA7499466981AF3071F00/Description/@EntryValue">Creates a MSTest deployment attribute (Creates a folder named DataFiles in the deployment folder, and copies file2.xml from the build output folder to DataFiles.)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E2570A8A1FBDA7499466981AF3071F00/Text/@EntryValue">[DeploymentItem(@"$SOURCEFILE$", "$TARGETFOLDER$")]</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E2570A8A1FBDA7499466981AF3071F00/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E2570A8A1FBDA7499466981AF3071F00/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E2570A8A1FBDA7499466981AF3071F00/Categories/=MSTest/@EntryIndexedValue">MSTest</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E2570A8A1FBDA7499466981AF3071F00/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E2570A8A1FBDA7499466981AF3071F00/Scope/=C3001E7C0DA78E4487072B7E050D86C5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E2570A8A1FBDA7499466981AF3071F00/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E2570A8A1FBDA7499466981AF3071F00/Scope/=C3001E7C0DA78E4487072B7E050D86C5/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E2570A8A1FBDA7499466981AF3071F00/Field/=SOURCEFILE/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E2570A8A1FBDA7499466981AF3071F00/Field/=SOURCEFILE/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E2570A8A1FBDA7499466981AF3071F00/Field/=TARGETFOLDER/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E2570A8A1FBDA7499466981AF3071F00/Field/=TARGETFOLDER/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7253A1A51586CB489A5177C1CD064C2C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7253A1A51586CB489A5177C1CD064C2C/Shortcut/@EntryValue">mtdeploy</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7253A1A51586CB489A5177C1CD064C2C/Description/@EntryValue">Creates a MSTest deploymentitem attribute (Copies file1.xml from the build output directory to the deployment directory.)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7253A1A51586CB489A5177C1CD064C2C/Text/@EntryValue">[DeploymentItem("$FILE$")]</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7253A1A51586CB489A5177C1CD064C2C/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7253A1A51586CB489A5177C1CD064C2C/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7253A1A51586CB489A5177C1CD064C2C/Categories/=MSTest/@EntryIndexedValue">MSTest</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7253A1A51586CB489A5177C1CD064C2C/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7253A1A51586CB489A5177C1CD064C2C/Scope/=C3001E7C0DA78E4487072B7E050D86C5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7253A1A51586CB489A5177C1CD064C2C/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7253A1A51586CB489A5177C1CD064C2C/Scope/=C3001E7C0DA78E4487072B7E050D86C5/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7253A1A51586CB489A5177C1CD064C2C/Field/=FILE/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7253A1A51586CB489A5177C1CD064C2C/Field/=FILE/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FA99BE3FF45C084B9983F7D2252B8EDD/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FA99BE3FF45C084B9983F7D2252B8EDD/Shortcut/@EntryValue">mtignore</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FA99BE3FF45C084B9983F7D2252B8EDD/Text/@EntryValue">[Ignore]</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FA99BE3FF45C084B9983F7D2252B8EDD/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FA99BE3FF45C084B9983F7D2252B8EDD/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FA99BE3FF45C084B9983F7D2252B8EDD/Categories/=MSTest/@EntryIndexedValue">MSTest</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FA99BE3FF45C084B9983F7D2252B8EDD/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FA99BE3FF45C084B9983F7D2252B8EDD/Scope/=C3001E7C0DA78E4487072B7E050D86C5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FA99BE3FF45C084B9983F7D2252B8EDD/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FA99BE3FF45C084B9983F7D2252B8EDD/Scope/=C3001E7C0DA78E4487072B7E050D86C5/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2D116748D5F6B745A5BBE66FE0A08EDE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2D116748D5F6B745A5BBE66FE0A08EDE/Shortcut/@EntryValue">mtinit</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2D116748D5F6B745A5BBE66FE0A08EDE/Description/@EntryValue">Creates MSTest initialize</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2D116748D5F6B745A5BBE66FE0A08EDE/Text/@EntryValue">[TestInitialize]&#xD;
+public void TestInitialize()&#xD;
+{&#xD;
+    $END$&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2D116748D5F6B745A5BBE66FE0A08EDE/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2D116748D5F6B745A5BBE66FE0A08EDE/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2D116748D5F6B745A5BBE66FE0A08EDE/Categories/=MSTest/@EntryIndexedValue">MSTest</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2D116748D5F6B745A5BBE66FE0A08EDE/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2D116748D5F6B745A5BBE66FE0A08EDE/Scope/=C3001E7C0DA78E4487072B7E050D86C5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2D116748D5F6B745A5BBE66FE0A08EDE/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2D116748D5F6B745A5BBE66FE0A08EDE/Scope/=C3001E7C0DA78E4487072B7E050D86C5/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B298BF8B96E71948883CFA5A175E8F36/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B298BF8B96E71948883CFA5A175E8F36/Shortcut/@EntryValue">mtmethod</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B298BF8B96E71948883CFA5A175E8F36/Description/@EntryValue">Creates MSTest method</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B298BF8B96E71948883CFA5A175E8F36/Text/@EntryValue">[TestMethod]&#xD;
+public void $TestName$()&#xD;
+{&#xD;
+    $END$&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B298BF8B96E71948883CFA5A175E8F36/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B298BF8B96E71948883CFA5A175E8F36/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B298BF8B96E71948883CFA5A175E8F36/Categories/=MSTest/@EntryIndexedValue">MSTest</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B298BF8B96E71948883CFA5A175E8F36/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B298BF8B96E71948883CFA5A175E8F36/Scope/=C3001E7C0DA78E4487072B7E050D86C5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B298BF8B96E71948883CFA5A175E8F36/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B298BF8B96E71948883CFA5A175E8F36/Scope/=C3001E7C0DA78E4487072B7E050D86C5/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B298BF8B96E71948883CFA5A175E8F36/Field/=TestName/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B298BF8B96E71948883CFA5A175E8F36/Field/=TestName/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=72F1B97C7F861D4B8093F501AF6E40EC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=72F1B97C7F861D4B8093F501AF6E40EC/Shortcut/@EntryValue">mtproperty</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=72F1B97C7F861D4B8093F501AF6E40EC/Description/@EntryValue">Creates a MSTest property</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=72F1B97C7F861D4B8093F501AF6E40EC/Text/@EntryValue">[TestProperty("$NAME$", "$VALUE$")]$END$&#xD;
+</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=72F1B97C7F861D4B8093F501AF6E40EC/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=72F1B97C7F861D4B8093F501AF6E40EC/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=72F1B97C7F861D4B8093F501AF6E40EC/Categories/=MSTest/@EntryIndexedValue">MSTest</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=72F1B97C7F861D4B8093F501AF6E40EC/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=72F1B97C7F861D4B8093F501AF6E40EC/Scope/=C3001E7C0DA78E4487072B7E050D86C5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=72F1B97C7F861D4B8093F501AF6E40EC/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=72F1B97C7F861D4B8093F501AF6E40EC/Scope/=C3001E7C0DA78E4487072B7E050D86C5/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=72F1B97C7F861D4B8093F501AF6E40EC/Field/=NAME/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=72F1B97C7F861D4B8093F501AF6E40EC/Field/=NAME/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=72F1B97C7F861D4B8093F501AF6E40EC/Field/=VALUE/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=72F1B97C7F861D4B8093F501AF6E40EC/Field/=VALUE/Order/@EntryValue">1</s:Int64></wpf:ResourceDictionary>

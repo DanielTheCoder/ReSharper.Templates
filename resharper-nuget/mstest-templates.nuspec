@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ReSharper.Templates.mstest</id>
+    <title>MSTest Live Templates</title>
+    <version>0.0.1-pre</version>
+    <authors>Daniel Sack</authors>
+    <owners>Daniel Sack</owners>
+    <description>A set of 'MSTest' Live Templates to quickly generate class, method, attributes entries.</description>
+    <projectUrl>https://github.com/DanielTheCoder/ReSharper.Templates</projectUrl>
+    <iconUrl>http://resharper-plugins.jetbrains.com/Content/Images/packageReSharper.png</iconUrl>
+    <copyright>Copyright &#169; 2013 Daniel Sack</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies>
+      <dependency id="ReSharper" version="8.0" />
+    </dependencies>
+    <tags>resharper templates mstest class testinitialize testcleanup testmethod</tags>
+  </metadata>
+  <files>
+    <file src="..\downloads\mstest-templates.dotSettings" target="ReSharper\v8.0\settings" />
+  </files>
+</package>
