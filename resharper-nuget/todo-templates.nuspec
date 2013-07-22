@@ -3,12 +3,12 @@
   <metadata>
     <id>ReSharper.Templates.todo</id>
     <title>ToDo Live Templates</title>
-    <version>0.0.2-pre</version>
+    <version>1.0.0.0</version>
     <authors>Daniel Sack</authors>
     <owners>Daniel Sack</owners>
     <description>A set 'ToDo' Live Templates to quickly generate ToDo, Notes, Bug entries.</description>
     <projectUrl>https://github.com/DanielTheCoder/ReSharper.Templates</projectUrl>
-    <iconUrl>http://resharper-plugins.jetbrains.com/Content/Images/packageReSharper.png</iconUrl>
+    <!-- <iconUrl>http://resharper-plugins.jetbrains.com/Content/Images/packageReSharper.png</iconUrl> -->
     <copyright>Copyright &#169; 2013 Daniel Sack</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>
