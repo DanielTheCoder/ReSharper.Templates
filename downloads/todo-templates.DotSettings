@@ -19,4 +19,60 @@
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Field/=date/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Field/=date/Expression/@EntryValue">getCurrentDate("yyyyMMdd")</s:String>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Field/=date/InitialRange/@EntryValue">-1</s:Int64>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Field/=date/Order/@EntryValue">2</s:Int64></wpf:ResourceDictionary>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5969E768BE4B434FBBD6A1FC3B3D318D/Field/=date/Order/@EntryValue">2</s:Int64>	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Shortcut/@EntryValue">comment</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Text/@EntryValue">&lt;!--$COMMENT$ [$date$,$usr$] $SELSTART$$END$$SELEND$ --&gt;</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Categories/=ToDo/@EntryIndexedValue">ToDo</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Scope/=C3004821E38B4A4AB76DD479CAD6C59A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Scope/=C3004821E38B4A4AB76DD479CAD6C59A/Type/@EntryValue">InHtmlFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Scope/=EC16BB1B4B2C4B4FADC44DADB6F63F97/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Scope/=EC16BB1B4B2C4B4FADC44DADB6F63F97/Type/@EntryValue">InHtmlTag</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Field/=date/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Field/=date/Expression/@EntryValue">getCurrentTime("u")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Field/=date/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Field/=date/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Field/=usr/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Field/=usr/Expression/@EntryValue">getUserName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Field/=usr/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Field/=usr/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Field/=COMMENT/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Field/=COMMENT/Expression/@EntryValue">list("TODO,NOTE,BUG")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2C4399DD436B40D99D79E860670BF268/Field/=COMMENT/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Shortcut/@EntryValue">comment</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Text/@EntryValue">@*$COMMENT$ [$date$,$usr$] $SELSTART$$END$$SELEND$ *@</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Categories/=ToDo/@EntryIndexedValue">ToDo</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Scope/=3CDDF046BEA72B499BFB0E0D6A845C94/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Scope/=3CDDF046BEA72B499BFB0E0D6A845C94/Type/@EntryValue">InRazorFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Field/=date/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Field/=date/Expression/@EntryValue">getCurrentTime("u")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Field/=date/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Field/=date/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Field/=usr/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Field/=usr/Expression/@EntryValue">getUserName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Field/=usr/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Field/=usr/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Field/=COMMENT/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Field/=COMMENT/Expression/@EntryValue">list("TODO,NOTE,BUG")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EBDE772362C047DE9B522D8385615543/Field/=COMMENT/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Shortcut/@EntryValue">comment</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Text/@EntryValue">'$COMMENT$ [$date$,$usr$] $SELSTART$$END$$SELEND$</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Categories/=ToDo/@EntryIndexedValue">ToDo</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Scope/=563FBDE4F9481C44B4298CB3231C3B30/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Scope/=563FBDE4F9481C44B4298CB3231C3B30/Type/@EntryValue">InVBFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Scope/=563FBDE4F9481C44B4298CB3231C3B30/CustomProperties/=languageLevel/@EntryIndexedValue">Vb8</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Field/=date/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Field/=date/Expression/@EntryValue">getCurrentTime("u")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Field/=date/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Field/=date/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Field/=usr/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Field/=usr/Expression/@EntryValue">getUserName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Field/=usr/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Field/=usr/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Field/=COMMENT/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Field/=COMMENT/Expression/@EntryValue">list("TODO,NOTE,BUG")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=41B5A3FED6494A8DBBD78CDF945AD65D/Field/=COMMENT/Order/@EntryValue">2</s:Int64></wpf:ResourceDictionary>
