@@ -16,8 +16,13 @@
     <Compile Include=".build\build.targets" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="mstest-templates\ReSharper\vAny\settings\mstest-templates.DotSettings" />
+    <None Include="mstest-templates\mstest-templates.nuspec" />
     <None Include="packages.config" />
+    <None Include="todo-templates\ReSharper\vAny\settings\todo-templates.DotSettings" />
+    <None Include="todo-templates\todo-templates.nuspec" />
   </ItemGroup>
+  <ItemGroup />
   <Import Condition="Exists('$(MSBuildProjectDirectory)\.build\build.props')" Project="$(MSBuildProjectDirectory)\.build\build.props" />
   <Import Condition="Exists('$(MSBuildProjectDirectory)\.build\build.targets')" Project="$(MSBuildProjectDirectory)\.build\build.targets" />
   <Import Project="..\packages\MSBuild.MSBNuget.1.0.3-pre6\build\MSBuild.MSBNuget.targets" Condition="Exists('..\packages\MSBuild.MSBNuget.1.0.3-pre6\build\MSBuild.MSBNuget.targets')" />

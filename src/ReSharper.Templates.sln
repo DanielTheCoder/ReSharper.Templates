@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuget.Packages", "Nuget.Pac
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{040D62EF-602C-408E-B2DD-F67D2B936B13}"
 	ProjectSection(SolutionItems) = preProject
+		.nuget\nuget.config = .nuget\nuget.config
 		.nuget\packages.config = .nuget\packages.config
 	EndProjectSection
 EndProject
